@@ -1,0 +1,8 @@
+.login-body{
+    height:100vh;
+    background-color: #A2D2FF;
+}
+
+.login-body .row {
+    height:90vh;
+}
